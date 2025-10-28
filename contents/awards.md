@@ -1,16 +1,13 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- National Encouragement Scholarship (SDAEU),2022
+- The 8th "Internet +" Competition: School-level First Prize (SDAEU),2022
+- The 1st "Qinghui Cup" Smart Internet of Things Technology Competition: School-level Second Prize (SDAEU),2021
+- The 10th National College Students Statistical Modeling Competition: Provincial Third Prize, (SDAEU), 2023
+- The 20th "Huawei Cup" Graduate Mathematics Competition: National Second Prize (QLU),2024
+- The 21st "Huawei Cup" Graduate Mathematics Competition: National Second Prize (QLU),2024
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2024.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023.
 
-- Freshman Scholarship (CUMT), 2022.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
