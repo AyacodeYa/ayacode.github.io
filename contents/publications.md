@@ -1,6 +1,6 @@
 #### Submitted
 
-- **Tao Wang**, Chong Di, Jinchao Huang, Chao Chen, Pengyao Xu, Bin Yang.Deep Reinforcement Learning with Positional Embedding for Influence
+- **Tao Wang**, Chong Di, Jinchao Huang, Chao Chen, Pengyao Xu, Bin Yang.</strong>Deep Reinforcement Learning with Positional Embedding for Influence
 Maximization.2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2025)</strong>. 
 
 #### Published
