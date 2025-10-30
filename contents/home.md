@@ -1,17 +1,14 @@
-
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is a current graduate student at Qilu University of Technology and currently works as an AI Algorithm Intern at Shandong Artificial Intelligence Research Institute.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: Ayacode_sudo[at]163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., School of Mathematics and Artificial Intelligence, Qilu University of Technology, 2023—2026.\
+
+B.E., School of Information Science and Technology, Shandong Agricultural and Engineering University, 2019—2023.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Computer Vision,Reinforcement Learning, Artificial Intelligence.
 
