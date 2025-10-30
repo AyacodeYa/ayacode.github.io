@@ -2,7 +2,7 @@ He is a current graduate student at Qilu University of Technology and currently 
 
 #### Contact
 
-Email: Ayacode_sudo[at]163.com
+Email: Ayacode_sudo@163.com
 
 #### Education
 M.E., School of Mathematics and Artificial Intelligence, Qilu University of Technology, 2023—2026.\
